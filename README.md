@@ -1,4 +1,8 @@
+![Linkdin banner](https://github.com/user-attachments/assets/4c8da42e-a908-4141-9cd7-0f033e4d0046)
+
 <h1 align="center">Hi 👋, I'm Naman Gundaniya</h1>
+
+
 <h3 align="center">A passionate UI/UX Designer & Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanpatel7030&label=Profile%20views&color=0e75b6&style=flat" alt="namanpatel7030" /> </p>
@@ -28,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanpatel7030&show_icons=true&locale=en" alt="namanpatel7030" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanpatel7030&" alt="namanpatel7030" /></p>
+
