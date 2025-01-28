@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanpatel7030&label=Profile%20views&color=0e75b6&style=flat" alt="namanpatel7030" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanpatel7030&row=2&column=3" alt="namanpatel7030" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanpatel7030" alt="namanpatel7030" /></a> </p>
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3 -->
 - 🔭 I’m currently working on **MERN**
 
