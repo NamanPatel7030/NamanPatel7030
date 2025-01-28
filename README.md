@@ -1,5 +1,5 @@
 
-![ScanX_Logo](https://github.com/user-attachments/assets/ff498ed0-fd15-4308-957b-7439b78c1813)
+
 
 ![Linkdin banner](https://github.com/user-attachments/assets/4c8da42e-a908-4141-9cd7-0f033e4d0046)
 
