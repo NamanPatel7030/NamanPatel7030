@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://namanpatel.framer.website/](https://namanpatel.framer.website/)
 
-- 💬 Ask me about **react, UI/UX, Python**
+- 💬 Ask me about **Angular, NextJs ,ReactJs, UI/UX, Python**
 
 - 📫 How to reach me **namandeveloper7030@gmail.com**
 
