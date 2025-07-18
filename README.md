@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Naman Gundaniya</h1>
 
 
-<h3 align="center">A passionate UI/UX Designer & Web Developer from India</h3>
+<h3 align="center">A passionate UI/UX Designer & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanpatel7030&label=Profile%20views&color=0e75b6&style=flat" alt="namanpatel7030" /> </p>
 
