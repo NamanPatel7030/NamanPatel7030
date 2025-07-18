@@ -13,8 +13,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanpatel7030" alt="namanpatel7030" /></a> </p>
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3 -->
 
-- 👨‍💻 All of my projects are available at [https://namanpatel.framer.website/](https://namanpatel.framer.website/)
-
 - 💬 Ask me about **Angular, NextJs ,ReactJs, UI/UX, Python**
 
 - 📫 How to reach me **namandeveloper7030@gmail.com**
