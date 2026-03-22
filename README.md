@@ -2,6 +2,7 @@
 
 
 ![Linkdin banner](https://github.com/user-attachments/assets/4c8da42e-a908-4141-9cd7-0f033e4d0046)
+<img width="1500" height="375" alt="AI EXPERT- Naman" src="https://github.com/user-attachments/assets/bdc3e977-152c-43c8-9f1f-b7129852d619" />
 
 <h1 align="center">Hi 👋, I'm Naman Gundaniya</h1>
 
