@@ -5,11 +5,8 @@
 <h1 align="center">Hi 👋, I'm Naman Gundaniya</h1>
 
 
-<h3 align="center">A passionate UI/UX Designer & Web Developer</h3>
+<h3 align="center">A Professional UI/UX Designer & Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanpatel7030&label=Profile%20views&color=0e75b6&style=flat" alt="namanpatel7030" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanpatel7030" alt="namanpatel7030" /></a> </p>
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3 -->
 
 - 💬 Ask me about **Angular, NextJs ,ReactJs, UI/UX, Python**
