@@ -1,6 +1,6 @@
-
-<img width="1200" height="675" alt="Github-banner" src="https://github.com/user-attachments/assets/58010244-d962-4c2c-94e9-ed1b8196d310" href="hellonaman.com" target="blank"/>
-
+<a href="www.hellonaman.com" target="blank">
+<img width="1200" height="675" alt="Github-banner" src="https://github.com/user-attachments/assets/58010244-d962-4c2c-94e9-ed1b8196d310"/>
+</a>
 
 <h1 align="center">Hi 👋, I'm Naman Gundaniya</h1>
 
