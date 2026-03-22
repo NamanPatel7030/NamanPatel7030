@@ -3,6 +3,8 @@
 
 ![Linkdin banner](https://github.com/user-attachments/assets/4c8da42e-a908-4141-9cd7-0f033e4d0046)
 <img width="1500" height="375" alt="AI EXPERT- Naman" src="https://github.com/user-attachments/assets/bdc3e977-152c-43c8-9f1f-b7129852d619" />
+<img width="1200" height="675" alt="Twitter post - 1 - Naman" src="https://github.com/user-attachments/assets/bbedd937-9816-4f3b-bf96-c3084e1640de" />
+
 
 <h1 align="center">Hi 👋, I'm Naman Gundaniya</h1>
 
